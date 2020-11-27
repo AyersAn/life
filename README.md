@@ -1,6 +1,6 @@
-# y
+# life
 
-> y
+> life
 
 ## Build Setup
 
